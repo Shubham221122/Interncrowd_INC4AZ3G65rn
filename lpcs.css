@@ -1,0 +1,33 @@
+main .h1p1{
+    width: 40%;
+    position: absolute;
+    top: 140px;
+    left: 120px;
+ } 
+
+ 
+ 
+ .img{
+    position: absolute;
+    right: 120px;
+    top: 150px;
+} 
+.line hr {
+    border-top: 3px solid #c16666;
+    position: relative;
+    width: 90%;
+    top: 470px;
+    
+  }
+  .playcards{
+    position: relative;
+    top: 430px;
+  }
+  footer
+  {
+    position: relative;
+    top: 500px;
+    background-color: #d64c4c;
+    height: 300px;
+  }
+  
